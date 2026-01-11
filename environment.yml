@@ -10,4 +10,5 @@ dependencies:
   - pandas
   - scikit-learn
   - seaborn
+  - pyjanitor
 prefix: /opt/miniconda3/envs/esg
