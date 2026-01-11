@@ -41,11 +41,3 @@ This project supports both Conda and Pip workflows.
     ```bash
     pip install -r requirements.txt
     ```
-
-## Usage
-
-Start the Jupyter Lab interface to explore the notebooks:
-
-```bash
-jupyter lab
-```
