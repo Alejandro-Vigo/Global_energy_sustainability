@@ -1,0 +1,25 @@
+
+# Mac OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Data (Optional: uncomment if you don't want to track data files)
+# data/
