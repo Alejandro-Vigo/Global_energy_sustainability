@@ -30,7 +30,7 @@ The analysis is divided into a sequential workflow of Jupyter notebooks located 
 ## Interactive Dashboard (Tableau Public)
 
 **View the interactive dashboard on Tableau Public:**  
-https://public.tableau.com/views/TU_DASHBOARD
+https://public.tableau.com/app/profile/alejandro.bernardo.davila/viz/ESG_17681488964680/Dashboard1
 
 This dashboard explores the relationship between:
 - Economic development
