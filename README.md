@@ -27,6 +27,18 @@ The analysis is divided into a sequential workflow of Jupyter notebooks located 
 *   **Aid Effectiveness Paradox:** There is no strong statistical correlation between the volume of international financial aid received by a country and the speed of its subsequent electrification or renewable capacity growth. This suggests non-monetary barriers (infrastructure, policy, governance) are critical bottlenecks.
 *   **The Infrastructure Lag:** Access to clean cooking fuels consistently lags behind access to electricity. Development tends to bring light before it brings clean air to the household kitchen.
 
+## 📊 Interactive Dashboard (Tableau Public)
+
+🔗 **View the interactive dashboard on Tableau Public:**  
+https://public.tableau.com/views/TU_DASHBOARD
+
+This dashboard explores the relationship between:
+- Economic development
+- CO₂ emissions
+- Renewable energy
+- Energy access and equity
+
+
 ## Installation
 
 This project supports both Conda and Pip workflows.
